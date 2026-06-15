@@ -9,6 +9,7 @@ A focused utility centered on visual customization and cosmetic exploration in D
 </div>
 
 ## 📑 Table of Contents
+
 - [Introduction](#introduction)
 - [Problem & Solution Overview](#problem--solution-overview)
 - [Key Features & Highlights](#key-features--highlights)
@@ -22,19 +23,19 @@ A focused utility centered on visual customization and cosmetic exploration in D
 
 ---
 
-## ✨ Introduction
+## ✨ <span id="introduction">Introduction</span>
 
 Dota 2 Skin Changer is designed as a clean and approachable way to explore cosmetic customization concepts within Dota 2. The project focuses on visual elements such as hero sets, weapon skins, and appearance layouts, presenting them in a structured format that is easy to download, review, and explore.
 
 By packaging everything into a single archive, the project reduces friction and allows users to quickly access and understand cosmetic-related content.
 
-## 🎯 Problem & Solution Overview
+## 🎯 <span id="problem--solution-overview">Problem & Solution Overview</span>
 
 Cosmetic customization systems are often spread across different sources, making it difficult to get a clear overview of available visual options. This project addresses that by offering a centralized archive that organizes cosmetic elements into a clear and consistent structure.
 
 The result is a practical solution that makes cosmetic exploration simpler, more efficient, and easier to navigate.
 
-## 🔥 Key Features & Highlights
+## 🔥 <span id="key-features--highlights">Key Features & Highlights</span>
 
 - 🗂️ Organized structure focused on cosmetic elements
 - 🧩 Clear presentation of hero sets, item styles, and custom effects
@@ -44,7 +45,7 @@ The result is a practical solution that makes cosmetic exploration simpler, more
 
 Each feature emphasizes simplicity and practical value.
 
-## 💡 Practical Use Cases
+## 💡 <span id="practical-use-cases">Practical Use Cases</span>
 
 - Exploring different hero set combinations
 - Reviewing and comparing cosmetic appearances for various heroes
@@ -53,13 +54,13 @@ Each feature emphasizes simplicity and practical value.
 
 These scenarios reflect common, practical ways the project can be explored.
 
-## 🛠️ Technical Overview
+## 🛠️ <span id="technical-overview">Technical Overview</span>
 
 The project follows a straightforward structure that prioritizes readability and ease of navigation. Files are organized logically, allowing users to quickly understand how cosmetic elements are grouped and presented for Dota 2 heroes.
 
 This approach keeps the archive accessible and easy to work with.
 
-## 📥 Installation & Basic Usage
+## 📥 <span id="installation--basic-usage">Installation & Basic Usage</span>
 
 1. Click the **Download** button above
 2. Extract the downloaded archive to a local folder
@@ -67,7 +68,7 @@ This approach keeps the archive accessible and easy to work with.
 
 The process is designed to be quick and intuitive.
 
-## 👥 Target Audience
+## 👥 <span id="target-audience">Target Audience</span>
 
 This project is suitable for:
 
@@ -77,7 +78,7 @@ This project is suitable for:
 
 It is ideal for anyone who values clarity and simplicity when working with cosmetic content.
 
-## 📊 Project Status & Updates
+## 📊 <span id="project-status--updates">Project Status & Updates</span>
 
 **Status:** ✅ Active
 
@@ -87,7 +88,7 @@ Potential future updates may include:
 - Improved organization and presentation
 - Expanded visual references and styles
 
-## ❓ FAQ
+## ❓ <span id="faq">FAQ</span>
 
 **Is this easy to use?**  
 Yes. The archive is designed to be clear and user-friendly.
@@ -98,9 +99,8 @@ No. Everything needed to explore the structure is included in the downloaded arc
 **Can I explore it at my own pace?**  
 Yes. The structure is flexible and easy to navigate.
 
-## 🏁 Final Summary & Call to Action
+## 🏁 <span id="final-summary--call-to-action">Final Summary & Call to Action</span>
 
 Dota 2 Skin Changer provides a clean and practical way to explore cosmetic customization concepts in Dota 2. With its clear structure and ready-to-use archive, it offers immediate value and a smooth exploration experience.
 
 👉 **Click the Download button above** and explore the project directly.
-
